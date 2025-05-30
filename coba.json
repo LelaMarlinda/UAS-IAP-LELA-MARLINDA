@@ -1,0 +1,30 @@
+[
+  {
+    "Nama": "Lela Marlinda",
+    "Umur": 22,
+    "Nim": "2217020128",
+    "Lulus": true,
+    "Hobi": [
+      "Membaca",
+      "Coding"
+    ],
+    "Pembimbing": {
+      "Pembimbing1": "Doddy Ferdiansyah",
+      "Pembimbing2": " Erik Syahputra"
+    }
+  },
+  {
+    "Nama": "Lela Marlinda",
+    "Umur": 22,
+    "Nim": "2217020128",
+    "Lulus": true,
+    "Hobi": [
+      "Membaca",
+      "Coding"
+    ],
+    "Pembimbing": {
+      "Pembimbing1": "Doddy Ferdiansyah",
+      "Pembimbing2": " Erik Syahputra"
+    }
+  }
+]
